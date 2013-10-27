@@ -1,6 +1,6 @@
 ({
     block: 'b-page',
-    title: 'Роман Рождественский — sbmaxx@yandex-team.ru',
+    title: 'Роман Рыбальченко — nerevar@yandex-team.ru',
     favicon: '//yandex.st/morda-logo/i/favicon.ico',
     head: [
         { elem: 'css', url: '_index.css' },
@@ -27,14 +27,14 @@
                         zip: '119021',
                         address: 'ул. Льва Толстого, д. 16',
                         phone: '+7 (495) 739-70-00',
-                        phoneAdd: '6598',
-                        cellular: '+7 (965) 21-404-62',
-                        site: 'yandex.ru'
+                        phoneAdd: '6941',
+                        cellular: '+7 (926) 982-55-08',
+                        site: 'www.yandex.ru'
                     },
                     extra: {
-                        email: 'sbmaxx@yandex-team.ru',
-                        skype: 'sbmaxx',
-                        github: 'sbmaxx'
+                        email: 'nerevar@yandex-team.ru',
+                        skype: 'r.nerevar',
+                        github: 'nerevar'
                     }
                 }
             },
@@ -47,22 +47,22 @@
                     phoneAdd: ' ext. '
                 },
                 data: {
-                    name: 'Roman Rozhdestvenskiy',
-                    position: 'Team leader at group of multimedia search interfaces',
+                    name: 'Roman Rybalchenko',
+                    position: 'Team leader of images search interfaces',
                     contact: {
                         country: 'Russia',
                         locality: 'Moscow',
                         zip: '119021',
                         address: '16, Leo Tolstoy St.',
                         phone: '+7 (495) 739-70-00',
-                        phoneAdd: '6598',
-                        cellular: '+7 (965) 21-404-62',
-                        site: 'yandex.com'
+                        phoneAdd: '6941',
+                        cellular: '+7 (926) 982-55-08',
+                        site: 'www.yandex.ru'
                     },
                     extra: {
-                        email: 'sbmaxx@yandex-team.ru',
-                        skype: 'sbmaxx',
-                        github: 'sbmaxx'
+                        email: 'nerevar@yandex-team.ru',
+                        skype: 'r.nerevar',
+                        github: 'nerevar'
                     }
                 }
             }
